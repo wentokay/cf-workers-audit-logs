@@ -10,7 +10,7 @@ You'll need a [Cloudflare Workers account](https://dash.cloudflare.com/sign-up/w
 
 Prepare the following secrets
 
-- Cloudflare API token with `Account Logs:Read` and `Account Settings:Read` permissions _(yes, both needed)_
+- Cloudflare API token with `Logs:Read` and `Account Settings:Read` permissions _(yes, both needed)_
 - Slack incoming webhook
 
 ## Deploy with Cloudflare Deploy Button
